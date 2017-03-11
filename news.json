@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "source": "techcrunch",
+    "sortBy": "top",
+    -"articles": [-{
+        "author": "Khaled \"Tito\" Hamze",
+        "title": "Crunch Report",
+        "description": "Your daily roundup of the biggest TechCrunch stories and startup news.",
+        "url": "https://techcrunch.com/video/crunchreport/",
+        "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2015/03/tccrshowogo.jpg?w=500&h=200&crop=1",
+        "publishedAt": "2017-03-02T04:40:50Z"
+    }, -{
+        "author": "Kate Conger, Devin Coldewey",
+        "title": "Marissa Mayer forgoes bonus and equity in wake of Yahoo security incidents",
+        "description": "Yahoo’s board has decided that CEO Marissa Mayer will not receive her annual bonus this year, a decision linked to Yahoo’s handling of the 2014 security..",
+        "url": "https://techcrunch.com/2017/03/01/marissa-mayer-forgoes-bonus-and-equity-in-wake-of-yahoo-security-incidents/",
+        "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2014/05/marissa-mayer3.jpg?w=764&h=400&crop=1",
+        "publishedAt": "2017-03-01T22:20:38Z"
+    }, -{
+        "author": "Matthew Lynley",
+        "title": "Snap values itself at nearly $24B with its IPO pricing",
+        "description": "Snap has given a final price for its IPO, setting the company's valuation at nearly $24 billion with a price of $17 per share, according to a report by The..",
+        "url": "https://techcrunch.com/2017/03/01/snap-values-itself-at-nearly-24b-with-its-ipo-pricing/",
+        "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2016/12/8a82586a123a7429edd0ca2f65ddbeda.jpg?w=764&h=400&crop=1",
+        "publishedAt": "2017-03-01T19:49:15Z"
+    }, -{
+        "author": "Lucas Matney",
+        "title": "Oculus co-founder talks new Rift pricing, Touch adoption and possible Mac support",
+        "description": "While so many virtual reality hardware companies have been tasked only with selling their own product, Oculus has had the intense challenge of building the..",
+        "url": "https://techcrunch.com/2017/03/01/oculus-co-founder-talks-new-rift-pricing-touch-adoption-and-possible-mac-support/",
+        "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2017/03/2016-09-14_oculus_134750-1-0022.jpg?w=764&h=400&crop=1",
+        "publishedAt": "2017-03-01T18:56:02Z"
+    }, -{
+        "author": "Matthew Lynley",
+        "title": "Five burning questions that Snap’s IPO is about to answer",
+        "description": "Snap will begin publicly trading tomorrow, which means that it will officially give a price for its shares in its initial public offering this evening...",
+        "url": "https://techcrunch.com/2017/03/01/five-burning-questions-that-snaps-ipo-is-about-to-answer/",
+        "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2017/02/gettyimages-616058338.jpg?w=764&h=400&crop=1",
+        "publishedAt": "2017-03-01T17:55:28Z"
+    }]
+}
