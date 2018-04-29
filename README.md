@@ -6,9 +6,9 @@ In this tutorial we'll dive in topic mining. We'll analyze a dataset of newsfeed
   <img src="./images/article_2/news_sources.PNG"</img>
 </p>
 
-We'll show how to process this text data, analyze it and extract visual clusters of topics from it. 
+We'll show how to process this text data, analyze it and automatically extract visual clusters of topics from it. 
 
-We'll show how to put in practice great python tools for interactive visualization, topic mining and text analytics: **scikit-learn**, **gensim** for the modeling, **Bokeh** and **PyLDAvis** the plots.
+We'll show how to put in practice great python tools for interactive visualization, topic mining and text analytics: **scikit-learn**, **gensim** for the modeling, **Bokeh** and **PyLDAvis** for the plots.
 
 All the code is available to you to run and test.
 
@@ -31,6 +31,7 @@ pip install wordcloud
 
 ```
 
-Enjoy. 
+If you have any question or recommendation regarding the content of this article, please refer to the website's comment section.
 
-For any improvement request/question about the code, please refer to the site's comment section.
+
+
