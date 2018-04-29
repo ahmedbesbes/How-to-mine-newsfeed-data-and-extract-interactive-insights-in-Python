@@ -31,5 +31,6 @@ pip install wordcloud
 
 ```
 
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="fr"><p lang="en" dir="ltr">How to mine newsfeed data and extract interactive insights in <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> <a href="https://twitter.com/hashtag/NLP?src=hash&amp;ref_src=twsrc%5Etfw">#NLP</a> <a href="https://t.co/KLNI4CVvfi">https://t.co/KLNI4CVvfi</a> <a href="https://t.co/pd5XiC7N0o">pic.twitter.com/pd5XiC7N0o</a></p>&mdash; KDnuggets (@kdnuggets) <a href="https://twitter.com/kdnuggets/status/989191823523504128?ref_src=twsrc%5Etfw">25 avril 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Enjoy. 
+
+For any improvement request/question about the code, please refer to the site's comment section.
